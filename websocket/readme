@@ -1,0 +1,2 @@
+这是一个golang的websocket例子
+要注意的是json的首字母要大写,否则不可以被访问

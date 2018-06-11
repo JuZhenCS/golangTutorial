@@ -1,0 +1,5 @@
+这是一个kcp的例子。
+kcp是一个开源的可靠udp实现，在低质量网络中可以有比tcp更好的表现。
+引用了kcp-go库，需要安装。
+安装方法：
+go get github.com/xtaci/kcp-go

@@ -1,0 +1,6 @@
+redis是一个内存数据库，可以用来做消息队列。
+redis不是最优秀的选择，但是是对我来说学习成本最低的选择。
+redis命令不区分大小写，推荐用大写好分辨。
+redis键是区分大小写的。
+需要安装redis客户端。redis官方推荐redigo客户端。
+go get github.com/garyburd/redigo/redis
